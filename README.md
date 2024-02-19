@@ -1,1 +1,1 @@
-# Django_Social_Website
+# Django Social Website
